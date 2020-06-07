@@ -1,0 +1,6 @@
+2020-06-06 23:53:46.754 - INFO - 32528 - azureml.train.automl.run._log_activity:55 - ActivityStarted: GetOutput
+2020-06-06 23:53:46.757 - INFO - 32528 - azureml.train.automl.run._log_activity:55 - ActivityStarted: GetChildren
+2020-06-06 23:53:47.068 - INFO - 32528 - azureml.train.automl.run._log_activity:78 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=311.2[ms]
+2020-06-06 23:53:47.069 - INFO - 32528 - azureml.train.automl.run._log_activity:55 - ActivityStarted: DownloadModel
+2020-06-06 23:54:03.360 - INFO - 32528 - azureml.train.automl.run._log_activity:78 - ActivityCompleted: Activity=DownloadModel, HowEnded=Success, Duration=16291.07[ms]
+2020-06-06 23:54:03.361 - INFO - 32528 - azureml.train.automl.run._log_activity:78 - ActivityCompleted: Activity=GetOutput, HowEnded=Success, Duration=16606.84[ms]
