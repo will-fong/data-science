@@ -28,6 +28,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Codewars](https://www.codewars.com/users/will-fong/badges/micro)]
 
 
 
@@ -35,7 +36,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/will-fong/data-science">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/will-fong/data-science/master/datascience.jpg" alt="Logo">
   </a>
 
   <h3 align="center">Data Science</h3>
@@ -80,7 +81,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`will-fong`, `data-science`, `twitter_handle`, `thewillfong@gmail.com`
+`will-fong`, `data-science`, `thewillfong@gmail.com`
 
 
 ### Built With
@@ -163,7 +164,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Will Fong - [@twitter_handle](https://twitter.com/twitter_handle) - thewillfong@gmail.com
+Will Fong - thewillfong@gmail.com
 
 Project Link: [https://github.com/will-fong/data-science](https://github.com/will-fong/data-science)
 
