@@ -1,0 +1,7 @@
+- name: Setup reviewdog
+  # You may pin to the exact commit or the version.
+  # uses: reviewdog/action-setup@8f2ec89e6b467ca9175527d2a1641bbd0c05783b
+  uses: reviewdog/action-setup@v1.0.3
+  with:
+    # reviewdog version. [latest,nightly,vX.Y.Z]
+    reviewdog_version: # optional, default is latest
