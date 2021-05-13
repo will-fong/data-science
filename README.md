@@ -28,7 +28,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Codewars](https://www.codewars.com/users/will-fong/badges/micro)]
+![Codewars][codewars-url]
 
 
 
@@ -70,7 +70,7 @@
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+<!--* [Acknowledgements](#acknowledgements)-->
 
 
 
@@ -79,9 +79,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`will-fong`, `data-science`, `thewillfong@gmail.com`
+Summary: WIP
 
 
 ### Built With
@@ -119,7 +117,6 @@ npm install
 
 
 <!-- USAGE EXAMPLES -->
-<!--
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -127,7 +124,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
--->
 <!-- ROADMAP -->
 ## Roadmap
 Supervised Learning
@@ -169,30 +165,30 @@ Will Fong - thewillfong@gmail.com
 Project Link: [https://github.com/will-fong/data-science](https://github.com/will-fong/data-science)
 
 
-
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<!--## Acknowledgements
 
 * []()
 * []()
 * []()
-
+-->
 
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/will-fong/data-science.svg?style=flat-square
+[contributors-url]: https://github.com/will-fong/data-science/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/will-fong/data-science.svg?style=flat-square
+[forks-url]: https://github.com/will-fong/data-science/network/members
+[stars-shield]: https://img.shields.io/github/stars/will-fong/data-science.svg?style=flat-square
+[stars-url]: https://github.com/will-fong/data-science/stargazers
+[issues-shield]: https://img.shields.io/github/issues/will-fong/data-science.svg?style=flat-square
+[issues-url]: https://github.com/will-fong/data-science/issues
+[license-shield]: https://img.shields.io/github/license/will-fong/data-science.svg?style=flat-square
+[license-url]: https://github.com/will-fong/data-science/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/iamwillfong/
+[codewars-url]: https://www.codewars.com/users/will-fong/badges/micro
 [product-screenshot]: images/screenshot.png
