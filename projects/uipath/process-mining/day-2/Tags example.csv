@@ -1,0 +1,25 @@
+Tag type;Tag;Comment;Tag score
+Inefficiency;Payment info not clear;The payment information was not complete. A "Clarify deviant invoice" event was performed, before the invoice could be paid..;50
+Inefficiency;Creditor does not exist;The creditor information that was on the invoice, was not available in our system.;10
+Inefficiency;Contract conditions not checked properly;After the final check, the contract conditions had to be checked again.;50
+Rework;Multiple final checks needed;Two or more final checks were needed to close the case.;40
+Rework;Multiple payment attempts;Two or more "Pay invoice" events were needed to close the case.;10
+Violation;Payment by non authorized user;The "Pay invoice" event was performed by someone who has no official authority to pay the invoice.;70
+Violation;SLA violation;The time to pay an invoice exceeded the 30 day contract terms in our SLA.;100
+Violation;Approved and paid by same user;Protocol violation: Four eyes. An invoice should never be approved and paid by the same person.;50
+Test;Case has activity A;Case has activity A;0
+Test;Case has no activity A;Case has no activity A;0
+Test;First activity is A;First activity is A;0
+Test;Last activity is A;Last activity is A;0
+Test;Activity A occurs more than once;Activity A occurs more than once;0
+Test;Trace is ABC;Trace is ABC;0
+Test;Sequence ABC occurs;Sequence ABC occurs;0
+Test;Sequence ABC does not occur;Sequence ABC does not occur;0
+Test;Throughput time is less than 5 days;Throughput time is less than 5 days;0
+Test;Throughput time from A to B is more than 10 days;Throughput time from A to B is more than 10 days;0
+Test;An A is directly followed by B;An A is directly followed by B;0
+Test;A is always directly followed by B;A is always directly followed by B;0
+Test;A is never directly followed by B;A is never directly followed by B;0
+Test;An A is eventually followed by B;An A is eventually followed by B;0
+Test;A is always eventually followed by B;A is always eventually followed by B;0
+Test;A is never eventually followed by B;A is never eventually followed by B;0

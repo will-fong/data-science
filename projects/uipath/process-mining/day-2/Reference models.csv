@@ -1,0 +1,46 @@
+Reference model;Trace ID;Activity
+Standard invoice;1;Receive invoice
+Standard invoice;1;Check received invoice
+Standard invoice;1;Final check of invoice
+Standard invoice;1;Approve invoice
+Standard invoice;1;Pay invoice
+Standard invoice;2;Receive invoice
+Standard invoice;2;Check received invoice
+Standard invoice;2;Final check of invoice
+Standard invoice;2;Pay invoice
+Standard invoice;3;Receive invoice
+Standard invoice;3;Check received invoice
+Standard invoice;3;Request data
+Standard invoice;3;Check contract conditions
+Standard invoice;3;Final check of invoice
+Standard invoice;3;Approve invoice
+Standard invoice;3;Pay invoice
+Trusted invoice;1;Receive invoice
+Trusted invoice;1;Check received invoice
+Trusted invoice;1;Checked and approved
+Trusted invoice;1;Pay invoice
+Employee invoice;1;Receive invoice
+Employee invoice;1;Pay employee reimbursement
+Invoices with contract check;1;Receive invoice
+Invoices with contract check;1;Check received invoice
+Invoices with contract check;1;Request data
+Invoices with contract check;1;Check contract conditions
+Invoices with contract check;1;Final check of invoice
+Invoices with contract check;1;Approve invoice
+Invoices with contract check;1;Pay invoice
+Invoices with contract check;2;Receive invoice
+Invoices with contract check;2;Check received invoice
+Invoices with contract check;2;Request data
+Invoices with contract check;2;Check contract conditions
+Invoices with contract check;2;Check contract conditions
+Invoices with contract check;2;Final check of invoice
+Invoices with contract check;2;Approve invoice
+Invoices with contract check;2;Pay invoice
+Invoices with contract check;3;Receive invoice
+Invoices with contract check;3;Check received invoice
+Invoices with contract check;3;Request data
+Invoices with contract check;3;Check contract conditions
+Invoices with contract check;3;Final check of invoice
+Invoices with contract check;3;Final check of invoice
+Invoices with contract check;3;Approve invoice
+Invoices with contract check;3;Pay invoice

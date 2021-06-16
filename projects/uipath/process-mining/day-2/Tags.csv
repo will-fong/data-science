@@ -1,0 +1,6 @@
+Tag type;Tag;Comment;Tag score
+Rework;Case has rework activity;Case has activity request data;0
+Violation;The first activity is not Receive invoice;The first activity is not Receive invoice;0
+Violation;Throughput time from Receive invoice to Pay invoice is more than 15 days;Throughput time from Receive invoice to Pay invoice is more than 15 days;0
+Violation;The activity Final check of invoice is directly followed by Pay invoice;The activity Final check of invoice is directly followed by Pay invoice;0
+General;The team Other is involved in the case;The team Other is involved in the case;0
