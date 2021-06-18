@@ -1,0 +1,4 @@
+Tag type;Tag;Comment;Tag score
+Inefficiency;The second “Check contract conditions” took longer than the first.;0;0
+Violation;Invoice over value of 750,000 is paid but not approved.;0;0
+SoD;Paid and approved by the same user (User who performed both check and pay invoice);0;0
