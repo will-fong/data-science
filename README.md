@@ -28,8 +28,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-![Codewars][codewars-url]
-
+[![Codewars][codewars-shield]][codewars-url]
 
 
 <!-- PROJECT LOGO -->
@@ -190,5 +189,6 @@ Project Link: [https://github.com/will-fong/data-science](https://github.com/wil
 [license-url]: https://github.com/will-fong/data-science/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/iamwillfong/
-[codewars-url]: https://www.codewars.com/users/will-fong/badges/micro
+[codewars-shield]: https://www.codewars.com/users/will-fong/badges/micro
+[codewars-url]: https://www.codewars.com/users/will-fong/
 [product-screenshot]: images/screenshot.png
