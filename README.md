@@ -46,8 +46,10 @@
     <a href="https://github.com/will-fong/data-science"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/will-fong/data-science">View Demo</a>
+  <!--  
+  <a href="https://github.com/will-fong/data-science">View Demo</a>
     ·
+  -->
     <a href="https://github.com/will-fong/data-science/issues">Report Bug</a>
     ·
     <a href="https://github.com/will-fong/data-science/issues">Request Feature</a>
@@ -74,20 +76,25 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Repository
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Summary: WIP
+This repository is a collection of my projects and accomplishments from my time spent in the data science and analytics space.
 
 
 ### Built With
 
 * [Python 3.6.0]()
-* []()
-* []()
-
-
+* [Azure Machine Learning]()
+* [Power BI Desktop June 2021]()
+* [TensorFlow 2]()
+* [PyTorch]()
+* [PySpark]()
+* [Luigi]()
+* [Prophet]()
+* [Oracle SQL]()
+* [UiPath Process Mining]()
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -118,10 +125,7 @@ npm install
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+Please use this as a reference for your own work and feel free to reach out with any questions or comments.
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -159,7 +163,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Will Fong - thewillfong@gmail.com
+Email me: thewillfong[at]gmail.com
 
 Project Link: [https://github.com/will-fong/data-science](https://github.com/will-fong/data-science)
 
