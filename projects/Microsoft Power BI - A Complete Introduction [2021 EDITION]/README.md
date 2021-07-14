@@ -9,7 +9,7 @@
 [![license](https://img.shields.io/github/license/:user/:repo.svg)](LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-Within this repository, there are assignments for Microsoft Power BI - A Complete Introduction [2021 EDITION]
+Within this repository, there are assignments for Microsoft Power BI - A Complete Introduction [2021 EDITION].  Status for all assignments is ``COMPLETED``.  Data is a time series of Apple stock prices.
 
 ## Table of Contents
 
@@ -33,10 +33,13 @@ Assignments for Microsoft Power BI - A Complete Introduction [2021 EDITION]
 
 This module depends upon a knowledge of [Power BI]().
 
+
 ```
 ```
 
-### Any optional sections
+### Version
+
+Current version is June 2021.
 
 ## Usage
 
